@@ -9,4 +9,3 @@
 - 😄 Pronouns: they<br>
 - ⚡ Fun fact: Fun facts are usually fun<br>
 
-Well, that's about it. I used the pre made format, quite boring innit?
