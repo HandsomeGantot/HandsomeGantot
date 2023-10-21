@@ -1,11 +1,11 @@
-<h1>ABOUT ME!</h1>
+d<h1>ABOUT ME!</h1>
 
 - 🔭 I’m currently working on how to turn my laptop on<br>
 - 🌱 I’m currently learning math, and maybe a little bit of php,html,css,javascript idk<br>
 - 👯 I’m looking to collaborate on nothing atm<br>
 - 🤔 I’m looking for help with how to escape poverty<br>
 - 💬 Ask me about my financial situation<br>
-- 📫 How to reach me: - Discord: DADADADADADADADADA#9379
+- 📫 How to reach me: - Discord: .dadadadadadadadada
 - 😄 Pronouns: they<br>
 - ⚡ Fun fact: Fun facts are usually fun<br>
 
